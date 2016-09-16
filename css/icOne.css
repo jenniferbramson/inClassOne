@@ -38,7 +38,8 @@ img {
   margin: auto;
   width: 100%;
   text-align: center;
-  padding: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: lightblue;
 }
 
@@ -87,7 +88,8 @@ footer {
   width: 100%;
   text-align: left;
   background-color: lightblue;
-  padding: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 footer ul {
